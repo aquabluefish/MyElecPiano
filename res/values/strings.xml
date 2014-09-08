@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Bluetooth My Elec Piano</string>
+    <string name="bluetooth">接続待ち</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
